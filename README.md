@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igor García</h1>
 <h3 align="center">A passionate Computer Vision engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igorgrc" alt="igorgrc" /></a> </p>
-
 - 🌱 I’m developing my skills on **2D and 3D Computer Vision and AI algorithms and Software applications deployments**
 
 <h3 align="left">Connect with me:</h3>
